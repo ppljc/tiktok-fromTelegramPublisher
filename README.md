@@ -1,2 +1,2 @@
-# tiktok-fromTelegramPublisher
-Publisher for tiktok from telegram
+# Telegram Publisher for TT
+Tiktok publishing will be feels better.
